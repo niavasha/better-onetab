@@ -16,7 +16,7 @@
     "prebuild": "yarn lint"
   },
   "dependencies": {
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.11",
     "material-design-icons-iconfont": "^3.0.3",
     "moment": "^2.22.1",
     "vue": "^2.5.16",
